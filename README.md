@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;Animator+%7C+Environment+Designer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">💻 Passionate about crafting clean and efficient code, I specialize in web development, full-stack projects, and open-source contributions. Currently enhancing my skills at the Sri Lanka Institute of Information Technology (SLIIT), I'm eager to collaborate and innovate.</h4>
+<h4 align="lefy">Passionate about crafting clean and efficient code, I specialize in web development, full-stack projects, and open-source contributions. Currently enhancing my skills at the Sri Lanka Institute of Information Technology (SLIIT), I'm eager to collaborate and innovate.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MethZ0&label=Profile%20views&color=0e75b6&style=plastic" alt="MethZ0" /> </p>
 

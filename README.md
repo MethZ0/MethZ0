@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi , I'm Methush Anjula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;Animator+%7C+Environment+Designer;Always+learning+new+things" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;Animator+%7C+Environment+Designer;Always+learning+new+things" alt="Typing SVG"></a>
 </p>
 <hr/>
 <h4 align="lefy">Passionate about crafting clean and efficient code, I specialize in web development, full-stack projects, and open-source contributions. Currently enhancing my skills at the Sri Lanka Institute of Information Technology (SLIIT), I'm eager to collaborate and innovate.</h4>

@@ -7,7 +7,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MethZ0&label=Profile%20views&color=0e75b6&style=plastic" alt="MethZ0" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👨‍💻 I am undergraduate at **SLIIT**
 

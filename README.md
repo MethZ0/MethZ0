@@ -1,13 +1,13 @@
 <div align="center">
 
-```
-███╗   ███╗███████╗████████╗██╗  ██╗██╗   ██╗███████╗██╗  ██╗
-████╗ ████║██╔════╝╚══██╔══╝██║  ██║██║   ██║██╔════╝██║  ██║
-██╔████╔██║█████╗     ██║   ███████║██║   ██║███████╗███████║
-██║╚██╔╝██║██╔══╝     ██║   ██╔══██║██║   ██║╚════██║██╔══██║
-██║ ╚═╝ ██║███████╗   ██║   ██║  ██║╚██████╔╝███████║██║  ██║
-╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<pre>
+███╗   ███╗███████╗████████╗██╗  ██╗███████╗ ██████╗ 
+████╗ ████║██╔════╝╚══██╔══╝██║  ██║╚════██║██╔═████╗
+██╔████╔██║█████╗     ██║   ███████║    ██╔╝██║██╔██║
+██║╚██╔╝██║██╔══╝     ██║   ██╔══██║   ██╔╝ ████╔╝██║
+██║ ╚═╝ ██║███████╗   ██║   ██║  ██║   ██║  ╚██████╔╝
+╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═════╝
+</pre>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;SLIIT+Undergraduate+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Spring+Boot+%7C+React+%7C+Java+Enthusiast;Animator+%26+Creative+Designer+%F0%9F%8E%A8;Always+building%2C+always+learning+%E2%9A%A1" alt="Typing SVG" />
@@ -96,7 +96,7 @@ contact:    methushanjula01@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MethZ0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,mysql,git,linux,cpp,php&perline=10" />
 </div>
 
 ---
@@ -111,8 +111,6 @@ contact:    methushanjula01@gmail.com
   </picture>
 </div>
 
-> ⚠️ **Note:** To activate the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — [see setup guide ↗](https://github.com/Platane/snk)
 
 ---
 
@@ -121,12 +119,8 @@ contact:    methushanjula01@gmail.com
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:methushanjula01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methushanjula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methush/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MethZ0)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/methush.anjula)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/methush_/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCgVnjH595qVjILrbc7K96tA)
-
 <br/>
 
 *Open to collaborations, internships, and exciting projects.* 
@@ -138,5 +132,5 @@ contact:    methushanjula01@gmail.com
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/MethZ0">MethZo</a> • Last updated: 2025</sub>
+  <sub>Made with ❤️ by <a href="https://github.com/MethZ0">MethZo</a> • Last updated: 2026 March</sub>
 </div>
